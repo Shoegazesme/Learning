@@ -5,4 +5,4 @@
  加油。<br>
  
 [戳这里到Day01>](https://shoegazesme.github.io/Learning/Day01/Day01.html)<br>
-[戳这里到Day02>](https://shoegazesme.github.io/Learning/Day02)
+[戳这里到Day02>](Day02/Day02.md)
