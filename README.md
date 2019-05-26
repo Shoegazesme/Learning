@@ -8,3 +8,4 @@
 [戳这里到Day02>](Day02/Day02.md)<br>
 [戳这里到Day03>](Day03/Day03.md)<br>
 [戳这里到Day04>](Day04/Day04.md)<br>
+[戳这里到Day05-06>](https://shoegazesme.github.io/Learning/Day05-06/resume.html)<br>
