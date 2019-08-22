@@ -1,9 +1,46 @@
-h1{
+*{
+    font-family: "微软雅黑"，sans-serif;
+}
+em {
+    font-weight: bold;
+    font-style: normal;
+}
+.header {
+    background-color:darkslateblue;
     float:left;
-    background-color:blue;
     width:200px;
+    height:800px;
+    color:white;
+    font-size:18px;
+    text-align:center;
+    padding-top:50px;
 }
-total
-{
-float:right;
+
+.main {
+    background-color: white;
+    float:left;
+    height:800px;
+    width:770;
+    padding-left: 30px;
+    color:#333333;
 }
+
+.name {
+    font-size:26px;
+    margin:20px 0;
+}
+.item p {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.item h3 {
+    margin-top:10px;
+    margin-bottom: -10px;
+    font-size: 18px;
+}
+
+
+
+
+

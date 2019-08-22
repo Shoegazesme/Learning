@@ -4,25 +4,13 @@ line-height:1.5;
 margin:0 auto;
 width:90;
 max-width:900;
+}
 
+*{
+    font-family:"微软雅黑",sans-serif;
 }
-div.name
-{
-   
-   
-    width:20%;
-    float:left;
-    
-}
-div.gender
-{
-    
-    width:20%;
-    float:left;
-    margin-left:50px;
-}
-div.job
-{
-    width:20%;
-    float:right;
+
+em {
+    font-weight: bold;
+    font-style: normal;
 }
